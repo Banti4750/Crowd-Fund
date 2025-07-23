@@ -100,7 +100,7 @@ npm install
 
 2. Update contract configuration in `src/config.js` with your deployed contract address
 ```javascript
-export const CONTRACT_ADDRESS = "YOUR_DEPLOYED_CONTRACT_ADDRESS";
+export const CONTRACT_ADDRESS = "0x116DebaC086564330A8485FC5b09B1566BDB4145";
 export const CONTRACT_ABI = [...]; // Your contract ABI
 ```
 
