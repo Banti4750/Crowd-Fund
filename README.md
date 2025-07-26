@@ -24,6 +24,14 @@ A decentralized crowdfunding platform built with Solidity smart contracts and Re
 - **React Router** for navigation
 - **CSS** for styling
 
+## 📸 Screenshot
+
+![App Screenshot](./screenshot/Screenshot 2025-07-26 184313.png)
+![App Screenshot](./screenshot/Screenshot 2025-07-26 184313.png)
+![App Screenshot](./screenshot/Screenshot 2025-07-26 184350.png)
+![App Screenshot](./screenshot/Screenshot 2025-07-26 184355.png)
+
+
 ## Smart Contract Architecture
 
 ### Main Contract: `Contract.sol`
