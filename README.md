@@ -27,7 +27,7 @@ A decentralized crowdfunding platform built with Solidity smart contracts and Re
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](./screenshots/dashboard.png)
+![Main Dashboard](./screenshot/Screenshot1.png)
 
 ### Create Campaign
 ![Create Campaign](./screenshots/create-campaign.png)
