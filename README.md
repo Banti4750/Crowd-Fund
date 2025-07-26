@@ -30,13 +30,12 @@ A decentralized crowdfunding platform built with Solidity smart contracts and Re
 ![Main Dashboard](./screenshot/Screenshot1.png)
 
 ### Create Campaign
-![Create Campaign](./screenshots/create-campaign.png)
+![Create Campaign](./screenshot/Screenshot2.png)
 
 ### Campaign Details
-![Campaign Details](./screenshots/campaign-details.png)
+![Campaign Details](./screenshot/Screenshot3.png)
 
-### Donation Process
-![Donation Process](./screenshots/donation-process.png)
+
 
 *Note: If screenshots are not visible, please check that the image files exist in the `/screenshots` folder.*
 
