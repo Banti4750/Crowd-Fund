@@ -24,13 +24,21 @@ A decentralized crowdfunding platform built with Solidity smart contracts and Re
 - **React Router** for navigation
 - **CSS** for styling
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![App Screenshot](./screenshot/Screenshot 2025-07-26 184313.png)
-![App Screenshot](./screenshot/Screenshot 2025-07-26 184313.png)
-![App Screenshot](./screenshot/Screenshot 2025-07-26 184350.png)
-![App Screenshot](./screenshot/Screenshot 2025-07-26 184355.png)
+### Main Dashboard
+![Main Dashboard](./screenshots/dashboard.png)
 
+### Create Campaign
+![Create Campaign](./screenshots/create-campaign.png)
+
+### Campaign Details
+![Campaign Details](./screenshots/campaign-details.png)
+
+### Donation Process
+![Donation Process](./screenshots/donation-process.png)
+
+*Note: If screenshots are not visible, please check that the image files exist in the `/screenshots` folder.*
 
 ## Smart Contract Architecture
 
@@ -123,6 +131,11 @@ npm start
 crowdfunding-dapp/
 ├── contracts/
 │   └── Contract.sol           # Main crowdfunding smart contract
+├── screenshots/               # Application screenshots
+│   ├── dashboard.png
+│   ├── create-campaign.png
+│   ├── campaign-details.png
+│   └── donation-process.png
 ├── src/
 │   ├── components/
 │   │   ├── ConnectWallet.js   # Wallet connection component
